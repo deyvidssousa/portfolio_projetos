@@ -5,8 +5,7 @@
 </p>
 
 # Deyvid Sousa
-<sub>*Géografo - Especialista em Geoprocessamento*</sub>
-
+<sub>*Géografo - Especialista em Geoprocessamento*</sub> 
 <sub>*Geoprogramador*</sub>
 
 
