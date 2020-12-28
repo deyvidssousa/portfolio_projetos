@@ -5,7 +5,9 @@
 </p>
 
 # Deyvid Sousa
-<sub>*Géografo - especialista em geoprocessamento*</sub>
+<sub>*Géografo - Especialista em Geoprocessamento*</sub>
+<sub>*Geoprogramador*</sub>
+
 
 Com experiência em geoprocessamento, tenho desenvolvido atividades e rotinas de geoprocessamento na área de perícias judiciais e extrajudiciais agregado a elaboração de laudos periciais, trabalhando com profissionais de diferentes áreas, tais como engenharia e agronomia desenvolvi um pensamento crítico e habilidades de resolução de problemas.
 Venho desenvolvendo atividades desde a coleta primária e secundária de dados cartógraficos, tratamento e confecção de mapas para análise e sintese de informações cartográficas.
